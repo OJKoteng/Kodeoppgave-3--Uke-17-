@@ -11,6 +11,27 @@ align-items: center;
 color: blanchedalmond;    
 }
 
+main {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+section {
+width: 100%;
+box-sizing: border-box;
+padding: 20px;   
+background-color: black; 
+}
+
+form {
+display: flex;
+flex-direction: column;
+justify-content: center; 
+align-items: center;   
+}
+
 h1 {
 font-size: 500%;
 }

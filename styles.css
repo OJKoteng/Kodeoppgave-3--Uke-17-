@@ -7,9 +7,14 @@ div {
 display: flex;
 flex-direction: column;
 justify-content: center;
-align-items: center;    
+align-items: center;
+color: blanchedalmond;    
 }
 
 h1 {
 font-size: 500%;
+}
+
+.footer {
+color: black;    
 }

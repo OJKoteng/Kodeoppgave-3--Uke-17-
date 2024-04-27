@@ -2,3 +2,14 @@ body {
 background-image: url(https://cdn.discordapp.com/attachments/1217106856002977832/1233355434665050164/Hotel-background.jpg?ex=662e1cc2&is=662ccb42&hm=6e43705b35a4cab4eae8283db4ac5a57a9508e376bfe6f2739c4d9623a978d82&);
 background-size: cover;
 }
+
+div {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;    
+}
+
+h1 {
+font-size: 500%;
+}
